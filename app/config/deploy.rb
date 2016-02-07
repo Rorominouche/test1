@@ -1,5 +1,5 @@
 set :application, "MyTest"
-set :domain,      "admin@testromainetolivier.easycoopt.com"
+set :domain,      "root@167.114.249.91"
 set :deploy_to,   "/var/www/html/test1"
 set :app_path,    "app"
 
